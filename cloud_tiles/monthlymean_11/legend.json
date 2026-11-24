@@ -1,0 +1,112 @@
+{
+  "legend": [
+    {
+      "color": "#F7FBFF",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "10-15 %"
+    },
+    {
+      "color": "#EBF3FB",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "15-20 %"
+    },
+    {
+      "color": "#E0ECF7",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "20-25 %"
+    },
+    {
+      "color": "#D4E4F4",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "25-30 %"
+    },
+    {
+      "color": "#C9DDF0",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "30-35 %"
+    },
+    {
+      "color": "#B6D3EB",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "35-40 %"
+    },
+    {
+      "color": "#A1C8E5",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "40-45 %"
+    },
+    {
+      "color": "#8BBEDF",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "45-50 %"
+    },
+    {
+      "color": "#76B3D9",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "50-55 %"
+    },
+    {
+      "color": "#62A7D2",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "55-60 %"
+    },
+    {
+      "color": "#5198CA",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "60-65 %"
+    },
+    {
+      "color": "#3F8AC3",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "65-70 %"
+    },
+    {
+      "color": "#2E7CBB",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "70-75 %"
+    },
+    {
+      "color": "#206DB1",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "75-80 %"
+    },
+    {
+      "color": "#1A5E9F",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "80-85 %"
+    },
+    {
+      "color": "#144F8E",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "85-90 %"
+    },
+    {
+      "color": "#0E3F7C",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "90-95 %"
+    },
+    {
+      "color": "#08306B",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "95-100 %"
+    }
+  ]
+}

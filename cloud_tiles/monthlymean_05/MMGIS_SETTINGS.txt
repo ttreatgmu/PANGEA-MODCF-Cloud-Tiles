@@ -1,0 +1,139 @@
+MMGIS layer settings - Cloud cover - May mean
+=====================================================
+Layer Type ............ Tile
+Layer Name ............ Cloud cover - May mean
+URL ................... https://ttreatgmu.github.io/PANGEA-MODCF-Cloud-Tiles/cloud_tiles/monthlymean_05/{z}/{x}/{y}.png
+Tile Format ........... TMS
+Minimum Zoom .......... 0
+Maximum Native Zoom ... 7
+Maximum Zoom .......... 12
+Bounding Box .......... -180,-24.9866,180,25.1816
+
+Raw Variables (paste exactly - this is the legend the hover values come from):
+{
+  "legend": [
+    {
+      "color": "#F7FBFF",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "5-10 %"
+    },
+    {
+      "color": "#ECF4FB",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "10-15 %"
+    },
+    {
+      "color": "#E1EDF8",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "15-20 %"
+    },
+    {
+      "color": "#D6E6F4",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "20-25 %"
+    },
+    {
+      "color": "#CBDFF1",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "25-30 %"
+    },
+    {
+      "color": "#BCD6EC",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "30-35 %"
+    },
+    {
+      "color": "#A8CCE7",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "35-40 %"
+    },
+    {
+      "color": "#93C2E1",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "40-45 %"
+    },
+    {
+      "color": "#7FB8DC",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "45-50 %"
+    },
+    {
+      "color": "#6BAED6",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "50-55 %"
+    },
+    {
+      "color": "#5BA0CF",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "55-60 %"
+    },
+    {
+      "color": "#4A93C7",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "60-65 %"
+    },
+    {
+      "color": "#3A85C0",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "65-70 %"
+    },
+    {
+      "color": "#2978B9",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "70-75 %"
+    },
+    {
+      "color": "#1E6AAD",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "75-80 %"
+    },
+    {
+      "color": "#195B9C",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "80-85 %"
+    },
+    {
+      "color": "#134D8C",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "85-90 %"
+    },
+    {
+      "color": "#0E3E7B",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "90-95 %"
+    },
+    {
+      "color": "#08306B",
+      "strokecolor": "#000000",
+      "shape": "discreet",
+      "value": "95-100 %"
+    }
+  ]
+}
+
+To see values on hover: turn on the Identifier tool in Configure -> Tools.
+Its "Layers" list can be left empty - with no .tif URL it reads values
+from this legend.
+
+Values in this layer: 9.20 to 100.00 %
+Source: EarthEnv Global 1-km Cloud Cover, Wilson & Jetz (2016)
+        PLoS Biol 14(3): e1002415. License CC BY-NC 4.0 - credit in the
+        layer description.
